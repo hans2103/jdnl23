@@ -1,0 +1,18 @@
+repo_name: hans2103/jdnl23
+report_id: f8d9b480dd30f5a7c4c249e5aa2f2586
+repo_type: Public
+timestamp: '2023-11-09T15:09:34+00:00'
+requested_by: hans2103
+provider: github
+branch: main
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
